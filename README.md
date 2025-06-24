@@ -1,3 +1,3 @@
 # Netflix Movies and TV Shows Data Analysis Using SQL
 
-[Netflix][]
+[Netflix][https://github.com/thummalaharitha2002/Netflix_SQL_Project/blob/main/download.png]
